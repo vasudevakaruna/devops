@@ -3,7 +3,7 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml">>>
 <head><title>
 	Tirumala Tirupati Devasthanams (Official Website)
 </title><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="description" content="Information hub of TTD and its associated groups which contains information about the temples in and around Tirumala and Tirupati so as to serve pilgrims worldwide." /><meta name="keywords" content="Annamacharya,Keertanas,Sri Ramanuja,SV,kalyanakatta,Siddhanta,trusts,religious,Festivals,Govinda,Pravachanams,Temple,srinivasa,kalyana vedika,hundi,donation,cottage,donor,srivari,PAT,govindaraja,seva,kalyana venkateswara,sapthagiri,panchangam,prasanna venkateswara,calendars,ttd,tirumala,tirupathi,temple,balaji,venkateswara,darshan,special entry darshan,Thomala,Archana,Astadala Pada Padmaaradhana,Suprabhatam,Nijapada Darshanam,pilgrims,kalyanotsavam,prasadam,nandakam,vishnunivasam,srinivasam,madhavam,padmavathi,visesha pooja,vasanthotsavam,unjal,sahasra,deepalankara,arjitha,brahmotsavam,tiruppavada,vastralankara,abhishekam,lakshmi,pushpanjali,astothara,satakalasabhishekam,thomala,sahasranama,archana,ekanta,anantha,moolavarlu,kankanam,veda,asirvachanam,pushpaarchana,pushpayagam,hindu,religion,prarthana,muhurtham,pasupu,kumkuma,annaprasadam,arogyavaraprasadini,birrd,pranadana,gosamrakshana, 
@@ -37,7 +37,7 @@
             m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-        ga('create', 'UA-74694835-1', 'auto');
+        ga('create', 'UA-74694835-1', auto);
         ga('send', 'pageview');
 
 </script>
