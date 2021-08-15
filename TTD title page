@@ -17,7 +17,7 @@
     <!-- Init Skitter -->
     <script type="text/javascript" language="javascript">
         $(document).ready(function () {
-            $('.box_skitter_large').skitter({
+            $('.box_skitter_large').skitter(
                 theme: 'clean',
                 numbers_align: 'center',
                 progressbar: true,
