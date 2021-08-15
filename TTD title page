@@ -1,0 +1,2106 @@
+
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Tirumala Tirupati Devasthanams (Official Website)
+</title><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="description" content="Information hub of TTD and its associated groups which contains information about the temples in and around Tirumala and Tirupati so as to serve pilgrims worldwide." /><meta name="keywords" content="Annamacharya,Keertanas,Sri Ramanuja,SV,kalyanakatta,Siddhanta,trusts,religious,Festivals,Govinda,Pravachanams,Temple,srinivasa,kalyana vedika,hundi,donation,cottage,donor,srivari,PAT,govindaraja,seva,kalyana venkateswara,sapthagiri,panchangam,prasanna venkateswara,calendars,ttd,tirumala,tirupathi,temple,balaji,venkateswara,darshan,special entry darshan,Thomala,Archana,Astadala Pada Padmaaradhana,Suprabhatam,Nijapada Darshanam,pilgrims,kalyanotsavam,prasadam,nandakam,vishnunivasam,srinivasam,madhavam,padmavathi,visesha pooja,vasanthotsavam,unjal,sahasra,deepalankara,arjitha,brahmotsavam,tiruppavada,vastralankara,abhishekam,lakshmi,pushpanjali,astothara,satakalasabhishekam,thomala,sahasranama,archana,ekanta,anantha,moolavarlu,kankanam,veda,asirvachanam,pushpaarchana,pushpayagam,hindu,religion,prarthana,muhurtham,pasupu,kumkuma,annaprasadam,arogyavaraprasadini,birrd,pranadana,gosamrakshana, 
+    sankara,netralaya,vidhyadana,veda parirakshana,sahasrabdi,bhagavad,bhagavatham,mahabharatham,accommodation,srinivasamangapuram,applayagunta,tiruchanoor,quota,diaries,publications" /><link href="Stylesheet.css" rel="stylesheet" type="text/css" /><link href="Sliding/skitter.styles.css" type="text/css" media="all" rel="stylesheet" />
+    <!-- Skitter JS -->
+    <script src="scripts/jquery-3.4.1.min.js"></script>
+    
+    
+    <script type="text/javascript" language="javascript" src="Sliding/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" language="javascript" src="Sliding/jquery.skitter.min.js"></script>
+    <link href="NewImages/favicon.ico" rel="Shortcut Icon" />
+    <!-- Init Skitter -->
+    <script type="text/javascript" language="javascript">
+        $(document).ready(function () {
+            $('.box_skitter_large').skitter({
+                theme: 'clean',
+                numbers_align: 'center',
+                progressbar: true,
+                dots: true,
+                preview: true
+            });
+        });
+
+
+        function ShowModalPopup() {
+            $find("mdlPopUp").show();
+        }
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-74694835-1', 'auto');
+        ga('send', 'pageview');
+
+</script>
+    <link rel="stylesheet" href="Scrolltotop/scrollToTop.css" /><link rel="stylesheet" href="Scrolltotop/easing.css" /></head>
+<body>
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=xBUk8ko_Uu5tHiQCu6iAgMVtpOcaSf-9O3WsasxNIr20v6z5TSbwApLOKHDQymXr2MrRi31G6LM7YrSzvb2CA8fRj4U1&amp;t=637454266754849868" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=BRR_7wh_BOQ-CSDGIkHn-V2I1_Oa7rYkzjiJYYKGHuFsTY2nrSyEBFeyOIkE6E_2JINrJJHbh14m7SIqKZScOY2nxXiJVKVY_3mL5nWcyS03hgbBVRekA6MgImz-Ndiv57XUWYKxD9QrkYIPjo93kJ9cmug1&amp;t=363be08" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=QPegeliVuReunSajvpPMo8nnMLj7xzVpwfd910YTZb9jiLHIDNBxSaIRFZA5w4-1_irnpPailifVTgKqUCpa2Zd79akDodsygZNIczIVpPZt6Cu509A_MZt2QemD0INUKbe82cgjbh8ekq5A4rlzHDCC1-AyXasOHxrHvgH_Pshpv7LK0&amp;t=363be08" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8D0E13E6" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="GoMRL5CPsN43QKzFTjus5XUSo8tfeEm+tdDg5nNf2mRIIduyQgpveMhW3rz/kBAvGMlYpnBJV7zsCoJ6lZG5lIFuJd/qKfLqCvT2wtzzv/o1Mvnwg6pYUTorK6WwPywFOkmayqxilKm6gP9icXSlJmSJHGGU6M380FsyPy1L6xdIYYtpybupH/l1j2MnapCYpESUzpzns1HDODUlDO5MdsALyk2F6I0muct2cLeSz7Z98hVjKHWfN0Lc0FOd9S/tihB2bcKwKOHSHZXZ+mQ1mPvH0MM2TQ1b7eNBOQ3HYRqDhkwomcfZ3i8qWMcUkSpeICkqRX6BGjGq9EDhjiGLeUQJ5Qohri89LwxrTJ+JDLWcL/EzZNMhtIheP2RAuPJgX7TgOiw6Bjabn818njqhuMHGd8nB3nxrAV951LJ14bPYV2t0CIwbVsjs5gxG2MQ5KSyOLvsyUnBE63pLZu1TlyK+sOOJRlwbtBEs/lUk9+flb4yO3SABBzQhnlVOMNtMJ/k/fQtl5h62smQ374yJP/FV8W8NqVZZkjGbCmcBj6eyWvoj4/zzw+x2B7mb8dNEF5Kv0EgPxRvVauNfoW/dpL8b5gDprRtrwZEtQe1GayIrbfLrwhMPgHhGMezGMu65+FPolnr3pE4PYBEeHfAkv4QSBGQ2+O4LGyuCdSCEaDF3jwwBsuBAL358c4Ya3qGw84puTssYtP2dRGrmdFuZY+otmPCgNvslP+CATAfTyVgavLYhj78PNzFOHhX7RUDoAViTjw==" />
+</div>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" id="Table1">
+            <tr>
+                <td align="center" valign="top">
+                    <!-- Header Starts -->
+                    <header>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0" id="Table2">
+                        
+                        <tr>
+                            <td class="Head-tab">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" id="Table4">
+                                    <tr>
+                                        <td align="center" valign="top" style="background-image: url(NewImages/gopuram-Mini-Icon.png); background-position: bottom; background-repeat: repeat-x;">
+                                            <table width="1002" border="0" cellspacing="0" cellpadding="0" align="center" class="head-tbl"
+                                                id="Table5">
+                                                <tr>
+                                                    <td width="150">
+                                                        <img src="NewImages/TTD-Logo.png" alt="TTD Logo" /></td>
+                                                    <td width="612" align="center">
+                                                        <img src="NewImages/HD-TXT.png" width="526" height="93" /></td>
+                                                    <td width="240" align="right" style="vertical-align: top;">
+                                                        <img src="NewImages/TTD-Head-Img.png" height="131" />
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="main-menu-top"></td>
+                        </tr>
+                        <tr>
+                            <td class="main-menu">
+                                <table width="1002" border="0" cellspacing="0" cellpadding="0" align="center" id="Table6">
+                                    <tr>
+                                        <td align="left">
+                                            <nav>
+                                                <div id="myslidemenu">
+                                                    <ul class="menuTemplate1 decor1_1">
+                                                        <li>
+
+                                                            <a href="Home.aspx">
+                                                                <img src="NewImages/Home-Icon.png" border="0" /></a>
+
+                                                        </li>
+                                                        <li>
+                                                            <a href="#">Temples</a>
+                                                            <div class="drop decor1_2" style="width: 750px;">
+                                                                <table width="98%" border="0" cellspacing="0" cellpadding="4" align="center">
+                                                                    <tr>
+                                                                        <td style="vertical-align: top; text-align: left;">
+                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                <tr>
+                                                                                    <td width="32%" align="left" valign="top">
+                                                                                        <!-- Block 1 Starts -->
+                                                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                            <tr>
+                                                                                                <td class="block-hd-bg">At Tirumala</td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" style="padding: 5px;"><span class="block-mini-hd">Sri Venkateswara Swamy Temple</span></td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" valign="top" style="padding-left: 15px;">
+                                                                                                    <div class="menudiv">
+                                                                                                        <a href="TempleLegend.aspx">Temple Legend</a>
+                                                                                                        <a href="TTDTempleHistory.aspx">History</a>
+                                                                                                        
+                                                                                                        
+                                                                                                        <a href="srk1.aspx">The Srinivasa Kalyanam </a>
+                                                                                                        
+                                                                                                        
+                                                                                                        <a href="Places to see around Tirumala.aspx">Places to Visit Around Tirumala </a>
+                                                                                                    </div>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" style="padding: 5px;"><span class="block-mini-hd">Sri Bhu Varaha Swamy Temple</span></td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" valign="top" style="padding-left: 15px;">
+                                                                                                    <div class="menudiv">
+                                                                                                        <a href="Varaha_TempleLegend.aspx">Temple Legend</a>
+
+                                                                                                    </div>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" style="padding: 5px;"><span class="block-mini-hd">Sri Bedi Anjaneya Swamy Temple</span></td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" valign="top" style="padding-left: 15px;">
+                                                                                                    <div class="menudiv">
+                                                                                                        <a href="Anjaneya_TempleLegend.aspx">Temple Legend</a>
+
+                                                                                                    </div>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </table>
+                                                                                        <!-- Block 1 Ends -->
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                        </td>
+                                                                        <td align="left" valign="top" width="32%" style="padding-left: 10px;">
+                                                                            <!-- Block 3 Starts -->
+                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                <tr>
+                                                                                    <td class="block-hd-bg">At Tiruchanoor</td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="left" style="padding: 5px;"><span class="block-mini-hd">Sri Padmavathi Ammavari Temple</span></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="left" valign="top" style="padding-left: 15px;">
+                                                                                        <div class="menudiv">
+                                                                                            <a href="PatAtThiruchanoorTempleLegend.aspx">Temple Legend</a>
+                                                                                            
+                                                                                            
+
+                                                                                            <a href="PatAtThiruchanoorSevas.aspx">Arjitha Sevas</a>
+                                                                                            
+                                                                                            <a href="TemplesAtTiruchanoor.aspx">More Temples</a>
+                                                                                        </div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                            <!-- Block 3 Ends -->
+                                                                        </td>
+                                                                        <td width="36%" valign="top" style="padding-left: 10px;">
+                                                                            <!-- Block 2 Starts -->
+                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                <tr>
+                                                                                    <td class="block-hd-bg">At Tirupathi</td>
+                                                                                </tr>
+
+                                                                                <tr>
+                                                                                    <td align="left" valign="top" style="padding-left: 15px; padding-top: 7px;">
+                                                                                        <div class="menudiv">
+                                                                                            <a href="TemplesAtTirupathi.aspx#id1">Sri Govindarajaswami Temple</a>
+                                                                                            <a href="TemplesAtTirupathi.aspx#id2">Srivari Padalamandapam Temple</a>
+                                                                                            <a href="TemplesAtTirupathi.aspx#id3">Sri Lakshmi Narayana Swamy Temple</a>
+                                                                                            <a href="TemplesAtTirupathi.aspx#id4">Sri Vinayaka Swamy Temple</a>
+                                                                                            
+                                                                                            <a href="TemplesAtTirupathi.aspx#id5">Sri Kapliswaraswamy Temple</a>
+                                                                                            <a href="TemplesAtTirupathi.aspx#id6">Sri Kodandarama Swamy Temple</a>
+                                                                                            
+                                                                                        </div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                            <!-- Block 2 Ends -->
+                                                                        </td>
+
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td colspan="3" style="text-align: right; padding-top: 5px;">
+                                                                            <div style="float: right;">
+                                                                                <a href="MoreTemples.aspx" style="font-size: 12px; color: #ce0003; font-weight: 500; vertical-align: middle; line-height: 18px; font-weight: bold;">more..</a>
+                                                                            </div>
+                                                                            
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#">Piligrim Services </a>
+                                                            <div class="drop decor1_2" style="width: 640px;">
+                                                                <table width="98%" border="0" cellspacing="0" cellpadding="4" align="center">
+                                                                    <tr>
+                                                                        <td style="vertical-align: top; text-align: left;">
+                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                <tr>
+                                                                                    <td width="33%" align="left" valign="top">
+                                                                                        <!-- Block 1 Starts -->
+                                                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                            <tr>
+                                                                                                <td><span class="block-mini-hd">Darshan</span></td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" valign="top" style="padding-left: 15px; padding-top: 5px;">
+                                                                                                    <div class="menudiv">
+                                                                                                        <a href="Sarvadarshanam.aspx">Sarvadarshan</a>
+                                                                                                        <a href="SpecialEntryDarshan.aspx">Special Entry Darshan </a>
+                                                                                                        <a href="DivyaDarshan.aspx">Divya Darshan (for pedestrians)</a>
+                                                                                                        <a href="SpecialDarshanForPhysicallyDisabledAndAged.aspx">Special Darshan for Physically Disabled and Aged</a>
+                                                                                                    </div>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </table>
+                                                                                        <!-- Block 1 Ends -->
+                                                                                        <!-- Block 1 Starts -->
+                                                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 10px;">
+                                                                                            <tr>
+                                                                                                <td><span class="block-mini-hd">Sevas</span></td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" valign="top" style="padding-left: 15px; padding-top: 5px;">
+                                                                                                    <div class="menudiv">
+                                                                                                        <a href="ArjithaSevas.aspx">Arjitha Sevas</a>
+                                                                                                        <a href="DailySevas.aspx">Daily Sevas</a>
+                                                                                                        <a href="WeeklySevas.aspx">Weekly Sevas</a>
+                                                                                                        <a href="AnnualSevas.aspx">Annual or Periodical Sevas</a>
+                                                                                                    </div>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </table>
+                                                                                        <!-- Block 1 Ends -->
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                        </td>
+                                                                        <td width="33%" valign="top" style="padding-left: 10px;">
+                                                                            <!-- Block 3 Starts -->
+                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                <tr>
+                                                                                    <td><span class="block-mini-hd">Accommodation at Tirumala</span></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="left" valign="top" style="padding-left: 15px; padding-top: 5px; height: 105px;">
+                                                                                        <div class="menudiv">
+                                                                                            <a href="AccommodationAtTirumala.aspx">Accommodation</a>
+                                                                                            <a href="https://tirupatibalaji.ap.gov.in/" target="_blank">Advance Reservation</a>
+                                                                                            
+                                                                                            <a href="RestHousesInTirumala.aspx">Rest Houses</a>
+                                                                                        </div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                            <!-- Block 3 Ends -->
+                                                                            <!-- Block 4 Starts -->
+                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                <tr>
+                                                                                    <td><span class="block-mini-hd">Accommodation at Tirupati</span></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="left" valign="top" style="padding-left: 15px; padding-top: 5px;">
+                                                                                        <div class="menudiv">
+                                                                                            <a href="AccommodationAtTirupati.aspx">Accommodation</a>
+                                                                                        </div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                            <!-- Block 4 Ends -->
+                                                                        </td>
+                                                                        <td width="34%" valign="top" style="padding-left: 10px;">
+                                                                            <!-- Block 3 Starts -->
+                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                <tr>
+                                                                                    <td><span class="block-mini-hd">Transport</span></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="left" valign="top" style="padding-left: 15px; padding-top: 5px; height: 105px;">
+                                                                                        <div class="menudiv">
+                                                                                            <!--
+                                                                                                <a href="FreeBusServiceTirupathi.aspx">Free Bus Service at Tirupati</a>
+                                                                                            <a href="FreeBusServiceAtTirumala.aspx">Free Bus Service at Tirumala</a>
+                                                                                            <a href="RailwayBookingOffice.aspx">Railway Booking Office</a>
+                                                                                            <a href="AutomobileClinic.aspx">Automobile Clinic</a>
+                                                                                            <a href="TravellingfromTirupatitoTirumala.aspx">Tirupati to Tirumala</a>
+                                                                                            <a href="TirupatitoTirumalaByRoad.aspx">Tirupati to Tirumala by Road</a>
+                                                                                            <a href="TirumalatoTirupathiOnFoot.aspx">Tirupati to Tirumala on Foot</a>-->                                                                                                                                                                                           
+                                                                                            
+
+                                                                                            <a href="ToReachTirupati.aspx">To Reach Tirupati</a>
+                                                                                            <a href="TravellingfromTirupatitoTirumala.aspx">Tirupati to Tirumala</a>
+                                                                                            <a href="FreeBusServiceAtTirumala.aspx">Free Buses at Tirumala</a>
+                                                                                            <a href="FreeBusServiceTirupathi.aspx">Free Buses at Tirupathi</a>                                                                               
+                                                                                            <a href="ReturnJourneyFromTirumala.aspx">Return Journey From Tirumala</a>
+                                                                                            <a href="PackageTours.aspx">Package Tours </a>
+                                                                                            <a href="RailwayBookingOffice.aspx">Railway Booking Office</a>
+                                                                                            <a href="AutomobileClinic.aspx">Automobile Clinic</a>
+                                                                                            
+                                                                                        </div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                            <!-- Block 3 Ends -->
+                                                                            <!-- Block 4 Starts -->
+                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                <tr>
+                                                                                    <td><span class="block-mini-hd">Others</span></td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td align="left" valign="top" style="padding-left: 15px; padding-top: 5px;">
+                                                                                        <div class="menudiv">
+                                                                                            
+                                                                                            <a href="SRIVENKATESWARAANNAPRASADAMTRUST.aspx">Anna Prasadam</a>
+                                                                                            <a href="KalyanaKatta.aspx">Kalyana Katta</a>
+                                                                                            <a href="MedicalFacilities.aspx">Medical </a>
+											    <a href="vows.aspx">Other Facilities</a>
+                                                                                        </div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                            <!-- Block 4 Ends -->
+                                                                        </td>
+                                                                    </tr>
+                                                                    
+                                                                </table>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#">Online Services</a>
+                                                            <div class="drop decor1_2" style="width: 145px;">
+                                                                <div class="menudiv">
+                                                                    <a href="https://tirupatibalaji.ap.gov.in/" target="_blank">Seva</a>
+                                                                    <a href="https://tirupatibalaji.ap.gov.in/" target="_blank">Darshan</a>
+                                                                    <a href="https://tirupatibalaji.ap.gov.in/" target="_blank">Accommodation</a>
+                                                                    <a href="https://tirupatibalaji.ap.gov.in/" target="_blank">Hundi</a>
+                                                                    <a href="https://tirupatibalaji.ap.gov.in/" target="_blank">Donation</a>
+                                                                    <a href="TTDs_Publications.aspx" target="_blank">Publications</a>
+                                                                    <a href="https://tirupatibalaji.ap.gov.in/" target="_blank">Kalyana Vedika</a>
+                                                                    <a href="https://tirupatibalaji.ap.gov.in/" target="_blank">Kalyanamandapam</a>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#">News and Events</a>
+                                                            <div class="drop decor1_2" style="width: 225px;">
+                                                                <div class="menudiv">
+                                                                    <a href="http://news.tirumala.org/" target="_blank">TTD News</a>
+                                                                    <a href="http://www.svbcttd.com/" target="_blank">Sri Venkateswara Bhakthi Channel</a>
+                                                                    <a href="Utsavams.aspx">Bramhotsvams</a>
+                                                                
+                                                                
+                                                                    <a href="S.V. Museum.aspx">S.V. Museum</a>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#">TTD Management</a>
+                                                            <div class="drop decor1_2" style="width: 192px;">
+                                                                <div class="menudiv">
+                                                                    <a href="TTDBoard.aspx">Administration</a>
+                                                                    
+                                                                    <a href="TTDBoardResolutions.aspx">Board Resolutions</a>
+                                                               	    <a href="TTD Administrative Sanctions.aspx">TTD Administrative Sanction</a>
+                                                                     </div>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            
+                                                            <a href="#">Photo Gallery</a>
+                                                            <div class="drop decor1_2" style="width: 145px;">
+                                                                <div class="menudiv">
+                                                                    <a href="PhotoGallery1.aspx">Past - Present</a>
+                                                                    <a href="UniqueAlbumImages.aspx">Unique Photos</a>
+                                                                    <a href="New Photo Gallery.aspx">News Album</a>
+                                                                     <a href="SrinivasaKalyanam.aspx">Srinivasa Kalyanam</a>
+
+                                                                    
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#">General Information </a>
+                                                            <div class="drop decor1_2" style="width: 175px;">
+                                                                <div class="menudiv">
+                                                                     
+                                                                    <a href="Dos_Donot.aspx">Do's and Don'ts</a>
+                                                                    <a href="FAQ.aspx">FAQs</a>
+                                                                    <a href="DressCode.aspx">Dress Code</a>
+                                                                    <a href="Contactus.aspx">Contact US</a>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                        
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </nav>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="main-menu-btm"></td>
+                        </tr>
+                    </table>
+                    </header>
+					<!-- Header Ends -->
+                </td>
+            </tr>
+            <tr>
+                <td align="center" valign="top">
+                    <!-- Body Starts -->
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+                        <tr>
+                            <td align="center" height="400px" style="vertical-align: top; background-image: url('NewImages/Background_Theme_1.jpg');">
+                                <!-- Content Template Starts -->
+                                
+
+    <style>
+        .display {
+            display: none;
+        }
+    </style>
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+    <link href="Stylesheet.css" rel="stylesheet" type="text/css" />
+    <link href="Sliding/skitter.styles.css" type="text/css" media="all" rel="stylesheet" />
+    <!-- Skitter JS -->
+    <script src="scripts/jquery-3.4.1.min.js"></script>
+    
+    <script type="text/javascript" language="javascript" src="Sliding/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" language="javascript" src="Sliding/jquery.skitter.min.js"></script>
+
+    
+    <link href="NewImages/favicon.ico" rel="Shortcut Icon" />
+
+    <script type="text/javascript">
+        //var stopFlag = 0;
+        //$(function () {
+        //    setInterval(function () {
+        //        if (stopFlag == 0) {
+        //            $('#SevaOnline').toggle();
+        //            $('#Ebooks').toggle();
+        //        }
+        //    }, 3000);
+        //});
+
+        function stopAudio() {
+            var audioId = document.getElementById('id12');
+            audioId.pause();
+            audioId.currentTime = 0;
+        }
+
+
+        function SetTarget() {
+            debugger;
+            //window.location.href = "search_result.aspx?search=" + document.getElementById('cph_Home_txtSearch').Value;
+            //document.getElementById("aspnetForm").target = '';
+            window.open("search_result.aspx?search=" + document.getElementById('cph_Home_txtSearch').value, '_blank');
+        }
+    </script>
+
+
+    <!-- Init Skitter -->
+    <script type="text/javascript" language="javascript">
+
+        //function test(txtBox) {
+        //    var cal1 = new calendar1(txtBox);
+        //    javascript: cal1.popup();
+        //    cal1.year_scroll = true;
+        //    cal1.time_comp = false;
+        //}
+
+        $(document).ready(function () {
+            $('.box_skitter_large').skitter({
+                theme: 'clean',
+                numbers_align: 'center',
+                progressbar: true,
+                dots: true,
+                preview: true
+            });
+        });
+
+
+        function ShowModalPopup() {
+            $find("mdlPopUp").show();
+        }
+    </script>
+    <script language="javascript" type="text/javascript">
+        function test(txtBox) {
+            var cal1 = new calendar1(txtBox);
+            javascript: cal1.popup();
+            cal1.year_scroll = true;
+            cal1.time_comp = false;
+        }
+
+    </script>
+
+    
+    <script language="javascript" type="text/javascript">
+
+        function HideDiv() {
+            document.getElementById('cph_Home_divCalender').style.display = 'none';
+        }
+
+        function SetName(name) {
+
+            document.getElementById("cph_Home_btnClick").click();
+        }
+    </script>
+
+
+
+    
+    
+    <script>
+        $(function () {
+            modalPosition();
+            $(window).resize(function () {
+                modalPosition();
+            });
+            $('.openModal').click(function (e) {
+                $('.modal, .modal-backdrop').fadeIn('fast');
+                e.preventDefault();
+            });
+            $('.close-modal').click(function (e) {
+                $('.modal, .modal-backdrop').fadeOut('fast');
+            });
+        });
+        function modalPosition() {
+            var width = $('.modal').width();
+            var pageWidth = $(window).width();
+            var x = (pageWidth / 2) - (width / 2);
+            $('.modal').css({ left: x + "px" });
+        }
+    </script>
+
+    <script>
+        $(document).ready(function () {
+
+            var activeDiv = 2;
+            showDiv(activeDiv); // show first one because all are hidden by default
+            var timer = setInterval(changeDiv, 8000);
+
+
+            //Temporarily Disabled for Latest New. (Removed Dynamic Changing)
+
+
+            function changeDiv() {
+
+                activeDiv++;
+                if (activeDiv == 5) {
+                    activeDiv = 2;
+                }
+                showDiv(activeDiv);
+
+            }
+
+            function showDiv(num) {
+                $('div.display').hide(); // hide all
+                $('#div' + num).fadeIn(); // show active
+            }
+
+        });
+    </script>
+    
+    <table onclick="HideDiv()" width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="banner-bg">
+                <table border="0" cellspacing="0" cellpadding="0" align="center" width="1002">
+                    <tr>
+                        <td>
+                            <img src="NewImages/Gopuram.jpg" width="314px" />
+                        </td>
+                        <td style="float: right;">
+                            <div class="box_skitter box_skitter_large" style="float: right;">
+                                <ul>
+                                    
+
+                                    
+                                         
+
+
+                                   
+                                   
+                                    
+                                  
+                                    
+
+                                    
+                                    
+				 
+
+
+				
+					
+					
+				
+
+				
+
+				
+
+                                    
+				
+				
+
+				    
+
+                                    
+
+				    
+				
+				    
+					
+				    
+
+				    
+
+                                    
+
+                                    
+
+				    
+				    
+
+				    
+
+				    
+
+				    <li><a href="#cubeStop">
+                                        <img src="NewImages/HomeBannerNov2020/1.png" class="cubeShow" style="border: 0px;"/>
+                                    </li>
+				    <li><a href="#cubeStop">
+                                        <img src="NewImages/HomeBannerNov2020/2.png" class="cubeShow" style="border: 0px;"/>
+                                    </li>
+				    <li><a href="#cubeStop">
+                                        <img src="NewImages/HomeBannerNov2020/3.png" class="cubeShow" style="border: 0px;"/>
+                                    </li>
+				    <li><a href="#cubeStop">
+                                        <img src="NewImages/HomeBannerNov2020/4.png" class="cubeShow" style="border: 0px;"/>
+                                    </li>
+				    <li><a href="#cubeStop">
+                                        <img src="NewImages/HomeBannerNov2020/5.png" class="cubeShow" style="border: 0px;"/>
+                                    </li>
+				    <li><a href="#cubeStop">
+                                        <img src="NewImages/HomeBannerNov2020/7.png" class="cubeShow" style="border: 0px;"/>
+                                    </li>
+				    <li><a href="#cubeStop">
+                                        <img src="NewImages/HomeBannerNov2020/8.png" class="cubeShow" style="border: 0px;"/>
+                                    </li>
+				    <li><a href="#cubeStop">
+                                        <img src="NewImages/HomeBannerNov2020/9.png" class="cubeShow" style="border: 0px;"/>
+                                    </li>
+
+
+
+                                </ul>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <div style="margin-top: -3px;">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+
+                            <td class="scroll-News" style="width: 925px;">
+                                <div style="margin-left: 4%; width: 92%;">
+                                    <marquee width="80%" behavior="scroll" direction="left" style="font-size: 12px; font-family: Arial;height:17px;" onmouseover="this.stop();"
+                                        scrollamount="3" onmouseout="this.start();">
+<span id="cph_Home_Span1" style="color:yellow;Font-size:11px;height:15px vertical-align:super" class="blink"> Flash News</span>
+
+
+
+
+
+
+
+
+
+
+
+
+					
+
+					
+                                        <span id="cph_Home_lblNewsMarquee" style="color: #FFFFFF;">The Advance booking arjitha seva ticket holders of Sahasrakalasabhishekam, Vishesha pooja & Vasantotsavam are requested to avail Break Darshan or to get refund instead of seva for their booking made in advance. The said sevas are decided to perform once in a year|</span>
+					
+					
+				</marquee>
+				<div width="925px" " style="font-size: 14px; font-family: Arial;text-align: left;" >
+ 					
+				</div>
+                                
+                            </td>
+                            
+                                
+                                
+                        </tr>
+ 
+                    </table>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" class="bod-gry-bg" style="background-image: url('NewImages/Background_Theme_1.jpg');">
+                <table width="1002" border="0" cellspacing="0" cellpadding="0" class="bod-wht-bg" align="center">
+                    <tr>
+                        <td align="center" style="padding-left: 5px;">
+                            <div id="add">
+                                
+				 <a href="https://srivariseva.tirumala.org/" target="_blank">
+                                   <img src="NewImages/Srivari-seva.png" border="0" width="235" height="45" style="border: 0px;margin-bottom:3px" /></a><br />
+                                    
+                                    <img src="NewImages/CallCenterNew.jpg" border="0" width="235" height="50" style="border: 0px;" />
+                            </div>
+                         <div id="add">
+                                <div id="SevaOnline">
+                                    <a href="https://tirupatibalaji.ap.gov.in/" target="_blank">
+                                        <img src="NewImages/online-image-New.png" border="0" width="235" height="27px" style="border: 0px; margin-bottom: 3px" /></a>
+                                </div>
+                                <div id="AnnamayaPatakuPadhasahityam" style="height: 68px; background-image: url('images/button 1.png'); text-align: left; text-wrap: normal;">
+                                    <div style="display: block">
+                                        <a href="TalapakaPatakuPadhasahityam.aspx" target="_blank" style="font-weight: bold; vertical-align: middle; color: white; font-size: 15px; float: left; margin-left: 1px; text-decoration: none !important; text-shadow: -1px -1px 0px #a3000e, 1px -1px 0px #a3000e, -1px 1px 0px #a3000e, 1px 1px 0px #a3000e; width: 250px; margin-top: 3px; margin-bottom: 5px">
+                                            <img src="images/icon.png" border="0" style="margin-left: 5px; float: left; height: 10px; margin-right: 9px;" />
+                                            <span style="font-size: 12px;">Annamaya Pataku Pattabhishekam </span></a>
+                                    </div>
+                                    <div style="display: block">
+                                        <a href="Saranagathi_Gadhyam.aspx" target="_blank" style="font-weight: bold; vertical-align: middle; color: white; font-size: 15px; float: left; margin-left: 1px; text-decoration: none !important; text-shadow: -1px -1px 0px #a3000e, 1px -1px 0px #a3000e, -1px 1px 0px #a3000e, 1px 1px 0px #a3000e; width: 250px;">
+                                            <img src="images/icon.png" border="0" style="margin-left: 5px; float: left; height: 10px; margin-right: 9px;" />
+                                            <span style="font-size: 12px;">Saranagathi gadhyam </span></a>
+                                    </div>
+
+
+                                    <div style="display: block">
+                                        <a href="RamanujamWebpage.aspx" target="_blank" style="font-weight: bold; vertical-align: middle; color: white; font-size: 15px; float: left; margin-left: 1px; text-decoration: none !important; text-shadow: -1px -1px 0px #a3000e, 1px -1px 0px #a3000e, -1px 1px 0px #a3000e, 1px 1px 0px #a3000e; width: 250px; padding-top: 5px;">
+                                            <img src="images/icon.png" border="0" style="margin-left: 5px; float: left; height: 10px; margin-right: 9px;" />
+                                            <span style="font-size: 12px;">Sri Ramanuja Sahasraabdhi</span></a>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div id="add" style="width: 236px;">
+                                
+                               <table style="width: 238px; height: 100%; margin-top: -2px;">
+                                    <tr style="height: 24px; background-image: url('images/button 1.png');">
+                                        <td>
+                                            <a href="https://hdpp.ttdsevaonline.com" target="_blank" onclick="return stopAudio()" style="font-weight: bold; color: white; font-size: 15px; float: left; margin-left: 1px; text-decoration: none !important; text-shadow: -1px -1px 0px #a3000e, 1px -1px 0px #a3000e, -1px 1px 0px #a3000e, 1px 1px 0px #a3000e; width: 219px;">
+                                                <img src="images/icon.png" border="0" style="margin-left: 5px; float: left; height: 10px; margin-right: 9px;" />
+                                                <div style="margin-left: 20px;">
+                                                    <span style="font-size: 12px;">Hindu Dharma Prachara </span>
+                                                    <div style="margin-left: 10px;">
+                                                        <span style="font-size: 12px;">Parishad</span>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                    </tr>
+                                    <tr style="height: 24px; background-image: url('images/button 2.png');">
+                                        <td>
+                                            <a href="http://ebooks.tirumala.org/" target="_blank" onclick="return stopAudio()" style="font-weight: bold; color: white; font-size: 15px; float: left; margin-left: 1px; text-decoration: none !important; text-shadow: -1px -1px 0px #a3000e, 1px -1px 0px #a3000e, -1px 1px 0px #a3000e, 1px 1px 0px #a3000e; width: 219px;">
+                                                <img src="images/icon.png" border="0" style="margin-left: 5px; float: left; height: 10px; margin-right: 9px;" />
+                                                <span style="font-size: 12px;">ePublications</span></a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                    </tr>
+                                    <tr style="height: 24px; background-image: url('images/button 1.png');">
+                                        <td>
+                                            <a href="RecordingProject.aspx" target="_blank" onclick="return stopAudio()" style="font-weight: bold; color: white; font-size: 15px; float: left; margin-left: 1px; text-decoration: none !important; text-shadow: -1px -1px 0px #a3000e, 1px -1px 0px #a3000e, -1px 1px 0px #a3000e, 1px 1px 0px #a3000e; width: 200px;">
+                                                <img src="images/icon.png" border="0" style="margin-left: 5px; float: left; height: 10px; margin-right: 9px;" />
+                                                
+                                                <div style="margin-left: 20px;">
+                                                    <span style="font-size: 12px;">Sri Annamacharya &amp; </span>
+                                                    <div style="margin-left: 10px;">
+                                                        <span style="font-size: 12px;">other Vaggeyakaras</span>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div id="add" style="margin-left: 0px;">
+                                <table cellpadding="0" width="100%" cellspacing="0" border="0">
+                                    
+				    <tr>
+                                        <td><a href="Sv_Amaravathi.aspx" target="_blank">
+                                            
+					    <img src="NewImages/Srivani%20Trust%20SV%20Temple%20Amaravathi.png"  border="0" width="230" height="100" style="border: 0px; padding-left:2px" /></a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" style="padding-left: 5px;">
+                            <div id="block">
+                                <div id="block-hd">SEVAS</div>
+                                <div>
+                                    <img src="NewImages/Block1-Img.gif" />
+                                </div>
+                                <div id="content">
+                                    <div id="menu">
+                                        <ul>
+                                            <li><a href="ArjithaSevas.aspx" class="block-link">Arjitha Sevas</a></li>
+                                            <li><a href="DailySevas.aspx" class="block-link">Daily Sevas</a></li>
+                                            <li><a href="WeeklySevas.aspx" class="block-link">Weekly Sevas</a></li>
+                                            <li><a href="AnnualSevas.aspx" class="block-link">Annual / Periodical Sevas</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="block">
+                                <div id="block-hd">DARSHAN</div>
+                                <div>
+                                    <img src="NewImages/Block2-Img.gif" />
+                                </div>
+                                <div id="content">
+                                    <div id="menu">
+                                        <ul>
+                                            <li><a href="Sarvadarshanam.aspx" class="block-link">Sarvadarshanam</a></li>
+                                            <li><a href="DivyaDarshan.aspx" class="block-link">Divya Darshan</a></li>
+                                            <li><a href="SpecialEntryDarshan.aspx" class="block-link">Special Entry Darshan (Seeghra Darshan)</a></li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="block">
+                                <div id="block-hd">ACCOMMODATION</div>
+                                <div>
+                                    <img src="NewImages/Block3-Img.gif" />
+                                </div>
+                                <div id="content">
+                                    <div id="menu">
+                                        <ul>
+                                            <li><a href="AccommodationAtTirumala.aspx" class="block-link">Accommodation at Tirumala</a></li>
+                                            <li><a href="Advancebooking.aspx" class="block-link">Advance Reservation</a></li>
+                                            
+                                            <li><a href="RestHousesInTirumala.aspx" class="block-link">Rest Houses & Tariffs </a></li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="dashboard">
+                                <div id="block-hd">TIRUMALA UPDATES</div>
+                                <div id="content" style="height: 219px;">
+                                    <div id="container">
+                                        
+                                        
+
+                                        
+                                        
+                                        <div id="div3" class="display">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td style="border-bottom: 1px #7d7570 solid; padding-bottom: 4px; padding-top: 4px;">
+                                                        <div style="float: left; font-size: 14px; font-weight: bold; color: #e20000; padding-left: 4px; margin-top: 5px;">Annaprasadam</div>
+
+                                                        <div style="float: right;">
+                                                            <img src="NewImages/report-icon.jpg" />
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding-top: 3px;">
+                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+                                                            <caption>
+                                                                <p class="stat-cont-txt">
+                                                                    <strong>
+                                                                        <span id="cph_Home_lblTotCount">Annaprasadam Served for 26063 pilgrims on 13-Aug-2021</span>
+                                                                    </strong>
+                                                                </p>
+
+                                                                <tr>
+                                                                    <td class="stat-cont-txt">Annaprasadam Complex</td>
+                                                                    <td class="stat-count">
+                                                                        <span id="cph_Home_lblAnnaprasadamJCom">: 26063</span>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="stat-cont-txt">VQC I and II</td>
+                                                                    <td class="stat-count">
+                                                                        <span id="cph_Home_lblAnnaprasadamJVQC">: 0</span>
+                                                                    </td>
+                                                                </tr>
+
+                                                                <tr>
+                                                                    <td class="stat-cont-txt">PAC2</td>
+                                                                    <td class="stat-count">
+                                                                        <span id="cph_Home_lblAnnaprasadamJPAC">: 0</span>
+                                                                    </td>
+                                                                </tr>
+                                                            </caption>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding-top: 3px;">&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <div id="div4" class="display">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td style="border-bottom: 1px #7d7570 solid; padding-bottom: 4px; padding-top: 4px;">
+                                                        <div style="float: left; font-size: 14px; font-weight: bold; color: #e20000; padding-left: 4px; margin-top: 5px;">
+                                                            Kalyanakatta
+                                                                
+                                                        </div>
+                                                        <div style="float: right;">
+
+                                                            <img src="NewImages/report-icon.jpg" />
+
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+
+                                                    <td class="stat-cont-txt">
+
+                                                        <strong>
+                                                            <span id="cph_Home_lblJKKCCount"> 12652 pilgrims availed tonsure facility upto </span></strong>
+                                                        <strong>
+                                                            <span id="cph_Home_lblJKKC"></span></strong> on
+                                                                <strong>
+                                                                    <span id="cph_Home_lblJKKCDate">12:00 AM  on 12-Aug-2021</span></strong>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                        </div>
+					<div id="div2" class="display">
+                                            <table  width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td style="border-bottom: 1px #7d7570 solid; padding-bottom: 4px; padding-top: 4px;">
+                                                        <div style="float: left; font-size: 14px; font-weight: bold; color: #e20000; padding-left: 4px; margin-top: 5px;">Slotted Sarva Darshan</div>
+
+                                                        <div style="float: right;">
+                                                            <img src="NewImages/report-icon.jpg" />
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="stat-cont-txt" style="line-height:150%;">
+                                                        <strong>
+                                                            <span id="cph_Home_textbeforeslot">Slotted Sarva Darshan has been temporarily closed.</span><br />
+                                                            <span id="cph_Home_lblSlotName" style="color:#ff4800;"></span>
+                                                            <span id="cph_Home_txtafterslot" style="color:#ff4800;"></span>
+                                                            <span id="cph_Home_lblSlotDate" style="color:#ff4800;"></span><br />
+                                                            <span id="cph_Home_txtafterdate"></span> 
+                                                            <span id="cph_Home_lblAvailableQuota" style="color:#ff4800;"></span><br />
+                                                            <span id="cph_Home_lblNote"></span>
+                                                        </strong>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td align="center" style="padding-left: 5px;">
+                            <div id="block">
+                                <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$cph_Home$ScriptManager1', 'form1', ['tctl00$cph_Home$UpdatePanel1','cph_Home_UpdatePanel1'], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+                                <div id="cph_Home_UpdatePanel1">
+	
+                                        <table cellpadding="0" cellspacing="0" border="0">
+                                            <tr>
+                                                <td align="center" valign="top" style="height: 281px; width: 233px; background-image: url(NewImages/Day-Bg.jpg); background-position: top left; background-repeat: no-repeat;">
+                                                    <table cellpadding="0" cellspacing="0" border="0" width="88%" align="center">
+                                                        <tr>
+                                                            <td align="center" valign="middle" style="font-size: 14px; padding-top: 5px; font-weight: bold; color: #a40508;">Siddhanta Panchangam</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="4" align="left">
+                                                                
+                                                            </td>
+
+
+
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" valign="middle" style="font-family: verdana; font-size: 11px; color: #ffffff; line-height: 17px; border-bottom: 1px #a40508 solid;" class="auto-style2">
+                                                                <span style="color: #470000; font-weight: bold;">
+                                                                    <span id="cph_Home_lblDate" style="text-align: center">15/08/2021, Sunday</span></span>&nbsp;&nbsp;<input type="image" name="ctl00$cph_Home$imgCal" id="cph_Home_imgCal" title="Click here to view selected date Panchangam" src="NewImages/Calendar-Icon.png" style="height:14px;" />
+                                                                
+                                                            </td>
+                                                        </tr>
+
+
+                                                        <tr>
+                                                            
+                                                            <tr>
+                                                                <td align="left" class="auto-style1" valign="top">
+                                                                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-top: 5px; height: 252px;" width="100%">
+                                                                        <tr>
+                                                                            
+                                                                            <td align="left">
+                                                                                <marquee behavior="scroll" direction="up" height="222" onmouseout="this.start();" onmouseover="this.stop();" scrollamount="3" style="font-weight: normal; font-size: 12px; color: #000000; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif;">
+                                                                                <div align="left" style="font-family: verdana; padding-left:5px; font-size: 11px; color: #ffffff; padding-top: 5px; line-height: 20px;" valign="top">
+                                                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    Samvatsaram :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:11px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblSanvatsaram">Sri Plava Nama Samvatsaram</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    Masam :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:11px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblMasam">Sravana</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    Paksham :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:11px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblPaksham">Sukla</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    SunRise :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:11px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblSunrise">6.02 Am</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    SunSet :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:11px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblSunset">6.31 Pm</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    Tithi :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:11px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblThidi">Sapthami 9.51 Am</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    Nakshatram :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:11px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblNakshatram">Swathi 6.46 Am <br/> Visakha 5.09 Am</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    Yogam :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:11px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblYogam">Suklam 10.21 Am </span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    Karanam :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:11px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblKaranam">Vani 9.51 Am <br/> Visti 8.39 Pm</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    AmruthaGadiyalu :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:10px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblAmritha">8.56 Pm - 10.25 Pm</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    Varjyam :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:10px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblVarjyam">11.59 Am -1.28 Pm</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+											<tr>
+                                                                                            <td align="left" style="padding-bottom:4px; border-bottom:1px #000 solid;">
+                                                                                                <div style="word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; color: #a40508; padding-top:1px; border-top:0px #000 solid;">
+                                                                                                    Festival :</div>
+                                                                                                <br />
+                                                                                                <div style="width:195px; font-weight:bold; font-size:10px; color:#000000; margin-top:-25px;">
+                                                                                                    <span id="cph_Home_lblFestival">Vayalpadu Sri Pattibirama Swamy vari pattabisekha mahotsava samapthi</span>
+                                                                                                </div>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </table>
+                                                                                </div>
+                                                                                </marquee>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr style="font-size:11px">
+                                                                            <td>
+                                                                                <label style="font-weight: bold;color: #a40508;width:200px;height: 35px;padding-bottom:9px;margin-bottom: 33%;" class="ttdhead">Download Panchangam - 
+                                                                                
+                                                                             
+                                                                                
+										<a href="Documents/PLAVANAMA%202021-22.pdf" target="_blank"/>
+                                                                                <label title="Click here to download TTD Telugu Panchangam" style="cursor: pointer; font-weight: bold;color: #a40508;width:200px;height: 35px;padding-bottom:9px;margin-bottom: 33%;" class="ttdhead">Telugu</label>
+                                                                            
+                                                                                <a href="Documents/Tamil Panchangam 2021-22.pdf" target="_blank"/>
+                                                                                <label title="Click here to download TTD Tamil Panchangam" style="cursor: pointer; font-weight: bold;color: #a40508;width:200px;height: 35px;padding-bottom:9px;margin-bottom: 33%;" class="ttdhead"> Tamil</label>
+                                                                                
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="right" height="25" valign="bottom">
+                                                                    <div style="display: none">
+                                                                        <input type="submit" name="ctl00$cph_Home$btnClick" value="" id="cph_Home_btnClick" />
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    
+</div>
+                            </div>
+                            <div id="block">
+                                <div id="block-hd">SCHEMES/TRUSTS</div>
+                                <div>
+                                    <img src="NewImages/Block7-Img.gif" />
+                                </div>
+                                <div id="content" style="height: 175px;">
+                                    <div id="menu">
+                                        <ul>
+					    <li><a href="Sv_Amaravathi.aspx" class="block-link">SRIVANI TRUST</a></li>
+                                            <li><a href="https://tirupatibalaji.ap.gov.in/#/edonation" class="block-link"> S.V. Annaprasadam Trust</a></li>
+                                            <li><a href=" https://tirupatibalaji.ap.gov.in/#/edonation" class="block-link">BIRRD Trust</a></li>
+                                            
+                                            <li><a href=" https://tirupatibalaji.ap.gov.in/#/edonation" class="block-link">S.V. Pranadana Trust</a></li>
+                                            <li><a href=" https://tirupatibalaji.ap.gov.in/#/edonation" class="block-link">S.V. Vidyadana Trust</a></li>
+                                            
+                                        </ul>
+                                        <div align="center" style="height: 25px;">
+                                            <a href="Privileges.aspx" class="block-link"><b>Privileges</b></a>
+                                        </div>
+                                        <div align="right">
+                                            <a href="MoreLinks.aspx" class="block-link">more...</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="block">
+                                <div id="block-hd">SOCIAL SERVICE</div>
+                                <div>
+                                    <img src="NewImages/Block5-Img.gif" />
+                                </div>
+                                <div id="content" style="height: 175px;">
+                                    <div id="image">
+                                        <ul>
+                                            <li><a href="SocialActivities.aspx" class="block-link">Social Activities </a></li>
+                                            <li><a href="EducationalTrust.aspx" class="block-link">Educational Activities </a></li>
+                                            <li><a href="ReligiousActivities.aspx" class="block-link">Religious Activities</a></li>
+                                            <li><a href="SAPublications.aspx" class="block-link">Publications</a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                    <br />
+                                    <br />
+                                    <div align="right" valign="bottom">
+                                        <a href="SocialServices.aspx" class="block-link">more... </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="block" style="margin-left: -3px;">
+                                <table cellpadding="0" cellspacing="0" border="0" width="238px">
+                                    <tr>
+                                        <td align="left" valign="top" style="height: 303px; width: 238px; background-image: url(NewImages/Day-Bg.jpg); background-position: top left; background-repeat: no-repeat;">
+                                            <table cellpadding="0" cellspacing="0" border="0" width="87%" align="center">
+                                                <tr>
+                                                    <td align="center" valign="middle" style="font-size: 14px; padding-top: 5px; font-weight: bold; color: #a40508;">Day Schedules</td>
+                                                </tr>
+                                                <tr>
+                                                    <td height="7" align="center"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" style="font-family: verdana; font-size: 11px; color: #ffffff; line-height: 17px; border-bottom: 1px #a40508 solid;" class="auto-style2">
+                                                        <span style="color: #470000; font-weight: bold;">
+                                                            <span id="cph_Home_spnDate" style="color: #470000; font-weight: bold;">15-08-2021 , Sunday</span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="left" valign="top" class="auto-style1">
+                                                        <table cellpadding="0" cellspacing="0" border="0" width="98%" align="center" style="margin-top: 5px;">
+                                                            <tr>
+                                                                
+                                                                <td align="left">
+                                                                    <marquee behavior="scroll" direction="up" height="222" onmouseout="this.start();" onmouseover="this.stop();" scrollamount="3" style="font-weight: normal; font-size: 12px; color: #000000; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif;">
+                                                                <div align="left" style="font-family: verdana; padding-left:5px; font-size: 11px; color: #ffffff; padding-top: 5px; line-height: 20px;" valign="top">
+                                                                     <div id="cph_Home_divEvents" style="width:100%"><table style='width:195px' align='center' cellpadding='0' cellspacing='0' border='0'>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>02:30-03:00 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Suprabhatam</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>03:30 - 04:00 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Thomala Seva (Ekantam)</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>04:00 - 04:15 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Koluvu and Panchanga Sravanam (Ekantam)</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>04:00 - 04:30 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>First Archana, Sahasranama Archana (Ekantam)</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>06:30- 07:00 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>FirstBell, Bali and Sattumura</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>07:00 - 07:30 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Suddhi Second Archana (Ekantam), SecondBell,etc.</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>07:30 - 19:00 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Sarvadarshanam</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>12:00 - 17:00 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Kalyanostavam,Brahmostavam,Vasanthostavam, Unjal Seva</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>17:30 - 18:30 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Sahasra Deepalankarana Seva</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>19:00 - 20:00 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Suddhi,Night Kainkaryams (Ekantam) and Night Bell</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>20:00 - 00:30 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Sarvadarshanam</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>00:30 - 00:45 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Suddi and preparations for Ekanta Seva</td>
+</tr>
+<tr>
+<td style='word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:10px; line-height:15px; color: #a40508; padding-top:5px; border-top:0px #000 solid;'>00:45 hrs</td>
+</tr>
+<tr>
+<td style='width:195px; word-wrap: break-word; word-break: break-all; font-weight:bold; font-size:11px; line-height:15px; padding-bottom:8px; border-bottom:1px #000 solid; color:#000000;'>Ekanta Seva</td>
+</tr>
+</table>
+</div>
+                                                                </div></marquee>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border-top: 3px #d8804d solid; padding-top: 18px; padding-right: 10px; height: 360px; vertical-align: top;">
+                            <div class="tabs">
+
+                                <div class="tab">
+                                    <input type="radio" id="tab-1" name="tab-group-1" checked>
+                                    <label for="tab-1">Latest Updates</label>
+
+                                    <div class="content">
+                                        
+                                        <div class="force-overflow">
+
+                                            
+                                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="gridtb" style="border-right: 1px #575757 solid; border-top: 1px #575757 solid;">
+                                                        <tr id="cph_Home_grdLatestUpdate_Tr4">
+	<th id="cph_Home_grdLatestUpdate_Th2" width="5%" class="gridhdbg" align="center">S.No</th>
+	<th width="80%" class="gridhdbg" align="center" valign="middle">Content</th>
+	<th class="gridhdbg" align="center" style="display: none" valign="middle">Department</th>
+	<th class="gridhdbg" align="center" style="display: none" valign="middle">Last Date & Time</th>
+	<th width="12%" class="gridhdbg" align="center" valign="middle">--</th>
+</tr>
+
+                                                        
+                                                    <tr class="item">
+                                                        <td class="gridbg1" align="center">
+                                                            1
+                                                        </td>
+                                                        <td class="gridbgleft">
+                                                            <span id="cph_Home_grdLatestUpdate_lblwork_0" class="WrapText" style="display:inline-block;width:98%;word-wrap: normal; word-break: initial;">Printing of Sapthagiri Magazine for the months of January to April, 2021was stopped 
+due to certain administrative reasons, the Subscription period will be extended for 
+four months to all subscribers. The Sapthagiri Magazine can be read in TTD Official 
+website – Chief Editor, Sapthagiri Magazine </span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl0$hdnTenderID" id="cph_Home_grdLatestUpdate_hdnTenderID_0" value="36218" />
+                                                        </td>
+                                                        <td class="gridbgleft" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDept_0" class="WrapText" style="display:inline-block;width:95%;">General</span>
+                                                        </td>
+                                                        <td class="gridbg1" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDate_0" class="WrapText" style="display:inline-block;width:95%;">22-05-2021 18:05</span>
+                                                        </td>
+                                                        <td id="tdview" class="gridbg1" align="center">
+
+                                                            <a id="cph_Home_grdLatestUpdate_hrpTenderDocument_0" class="GridViewLink" target="_blank"></a>
+                                                            <a id="cph_Home_grdLatestUpdate_hrpApplication_0" class="GridViewLink" target="_blank"></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl0$hdnLink" id="cph_Home_grdLatestUpdate_hdnLink_0" />
+                                                        </td>
+                                                    </tr>
+                                                
+                                                    <tr class="alternatingItem">
+                                                        <td class="gridbg2" align="center">
+                                                            2
+                                                        </td>
+                                                        <td class="gridbgleftalt">
+                                                            <span id="cph_Home_grdLatestUpdate_lblwork_1" class="WrapText" style="display:inline-block;width:98%;word-wrap: normal; word-break: initial;">To avail Break Darshan or request for refund for already booked advance booking Arjitha Seva tickets between 20.03.2020 to 13.04.2021 please click on view </span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl1$hdnTenderID" id="cph_Home_grdLatestUpdate_hdnTenderID_1" value="36140" />
+                                                        </td>
+                                                        <td class="gridbgleftalt" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDept_1" class="WrapText" style="display:inline-block;width:95%;">General</span>
+                                                        </td>
+                                                        <td class="gridbg2" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDate_1" class="WrapText" style="display:inline-block;width:95%;">13-05-2021 14:29</span>
+                                                        </td>
+                                                        <td id="cph_Home_grdLatestUpdate_tdview_1" align="center" class="gridbg2">
+
+                                                            <a id="cph_Home_grdLatestUpdate_hrpTenderDocument_1" class="GridViewLink" href="https://arjithaseva.tirupatibalaji.ap.gov.in/#/" target="_blank">View</a>
+                                                            <a id="cph_Home_grdLatestUpdate_hrpApplication_1" class="GridViewLink" target="_blank"></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl1$hdnLink" id="cph_Home_grdLatestUpdate_hdnLink_1" value="https://arjithaseva.tirupatibalaji.ap.gov.in/#/" />
+                                                        </td>
+
+
+                                                    </tr>
+                                                
+                                                    <tr class="item">
+                                                        <td class="gridbg1" align="center">
+                                                            3
+                                                        </td>
+                                                        <td class="gridbgleft">
+                                                            <span id="cph_Home_grdLatestUpdate_lblwork_2" class="WrapText" style="display:inline-block;width:98%;word-wrap: normal; word-break: initial;">Enriched bio-manure stocks are available in S.V. Gosamrakshana Shala, Tirupati</span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl2$hdnTenderID" id="cph_Home_grdLatestUpdate_hdnTenderID_2" value="35921" />
+                                                        </td>
+                                                        <td class="gridbgleft" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDept_2" class="WrapText" style="display:inline-block;width:95%;">General</span>
+                                                        </td>
+                                                        <td class="gridbg1" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDate_2" class="WrapText" style="display:inline-block;width:95%;">24-04-2021 16:00</span>
+                                                        </td>
+                                                        <td id="tdview" class="gridbg1" align="center">
+
+                                                            <a id="cph_Home_grdLatestUpdate_hrpTenderDocument_2" class="GridViewLink" href="Documents/202104241600466611.pdf" target="_blank">View</a>
+                                                            <a id="cph_Home_grdLatestUpdate_hrpApplication_2" class="GridViewLink" target="_blank"></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl2$hdnLink" id="cph_Home_grdLatestUpdate_hdnLink_2" />
+                                                        </td>
+                                                    </tr>
+                                                
+                                                    <tr class="alternatingItem">
+                                                        <td class="gridbg2" align="center">
+                                                            4
+                                                        </td>
+                                                        <td class="gridbgleftalt">
+                                                            <span id="cph_Home_grdLatestUpdate_lblwork_3" class="WrapText" style="display:inline-block;width:98%;word-wrap: normal; word-break: initial;">TTD Calendar 2021</span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl3$hdnTenderID" id="cph_Home_grdLatestUpdate_hdnTenderID_3" value="35518" />
+                                                        </td>
+                                                        <td class="gridbgleftalt" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDept_3" class="WrapText" style="display:inline-block;width:95%;">TTD Press</span>
+                                                        </td>
+                                                        <td class="gridbg2" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDate_3" class="WrapText" style="display:inline-block;width:95%;">12-03-2021 20:38</span>
+                                                        </td>
+                                                        <td id="cph_Home_grdLatestUpdate_tdview_3" align="center" class="gridbg2">
+
+                                                            <a id="cph_Home_grdLatestUpdate_hrpTenderDocument_3" class="GridViewLink" href="Documents/202103122038220903.pdf" target="_blank">View</a>
+                                                            <a id="cph_Home_grdLatestUpdate_hrpApplication_3" class="GridViewLink" target="_blank"></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl3$hdnLink" id="cph_Home_grdLatestUpdate_hdnLink_3" />
+                                                        </td>
+
+
+                                                    </tr>
+                                                
+                                                    <tr class="item">
+                                                        <td class="gridbg1" align="center">
+                                                            5
+                                                        </td>
+                                                        <td class="gridbgleft">
+                                                            <span id="cph_Home_grdLatestUpdate_lblwork_4" class="WrapText" style="display:inline-block;width:98%;word-wrap: normal; word-break: initial;">Yearly Program of Sri Kodandarama Swamy Temple - Tirupati</span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl4$hdnTenderID" id="cph_Home_grdLatestUpdate_hdnTenderID_4" value="35278" />
+                                                        </td>
+                                                        <td class="gridbgleft" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDept_4" class="WrapText" style="display:inline-block;width:95%;">Other Departments</span>
+                                                        </td>
+                                                        <td class="gridbg1" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDate_4" class="WrapText" style="display:inline-block;width:95%;">06-02-2021 12:15</span>
+                                                        </td>
+                                                        <td id="tdview" class="gridbg1" align="center">
+
+                                                            <a id="cph_Home_grdLatestUpdate_hrpTenderDocument_4" class="GridViewLink" href="Documents/202102061215321484.pdf" target="_blank">View</a>
+                                                            <a id="cph_Home_grdLatestUpdate_hrpApplication_4" class="GridViewLink" target="_blank"></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl4$hdnLink" id="cph_Home_grdLatestUpdate_hdnLink_4" />
+                                                        </td>
+                                                    </tr>
+                                                
+                                                    <tr class="alternatingItem">
+                                                        <td class="gridbg2" align="center">
+                                                            6
+                                                        </td>
+                                                        <td class="gridbgleftalt">
+                                                            <span id="cph_Home_grdLatestUpdate_lblwork_5" class="WrapText" style="display:inline-block;width:98%;word-wrap: normal; word-break: initial;">Draft list of 1128 Immovable properties of TTD released by the Chairman, TTD Board on 28.11.2020</span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl5$hdnTenderID" id="cph_Home_grdLatestUpdate_hdnTenderID_5" value="34915" />
+                                                        </td>
+                                                        <td class="gridbgleftalt" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDept_5" class="WrapText" style="display:inline-block;width:95%;">Revenue</span>
+                                                        </td>
+                                                        <td class="gridbg2" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDate_5" class="WrapText" style="display:inline-block;width:95%;">12-12-2020 15:56</span>
+                                                        </td>
+                                                        <td id="cph_Home_grdLatestUpdate_tdview_5" align="center" class="gridbg2">
+
+                                                            <a id="cph_Home_grdLatestUpdate_hrpTenderDocument_5" class="GridViewLink" href="Documents/202012121627007544.html" target="_blank">View</a>
+                                                            <a id="cph_Home_grdLatestUpdate_hrpApplication_5" class="GridViewLink" target="_blank"></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl5$hdnLink" id="cph_Home_grdLatestUpdate_hdnLink_5" />
+                                                        </td>
+
+
+                                                    </tr>
+                                                
+                                                    <tr class="item">
+                                                        <td class="gridbg1" align="center">
+                                                            7
+                                                        </td>
+                                                        <td class="gridbgleft">
+                                                            <span id="cph_Home_grdLatestUpdate_lblwork_6" class="WrapText" style="display:inline-block;width:98%;word-wrap: normal; word-break: initial;">Yoga Vasishtam & Dhanvanthari Mahamantra Parayanam </span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl6$hdnTenderID" id="cph_Home_grdLatestUpdate_hdnTenderID_6" value="31932" />
+                                                        </td>
+                                                        <td class="gridbgleft" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDept_6" class="WrapText" style="display:inline-block;width:95%;">General</span>
+                                                        </td>
+                                                        <td class="gridbg1" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDate_6" class="WrapText" style="display:inline-block;width:95%;">20-04-2020 09:09</span>
+                                                        </td>
+                                                        <td id="tdview" class="gridbg1" align="center">
+
+                                                            <a id="cph_Home_grdLatestUpdate_hrpTenderDocument_6" class="GridViewLink" href="http://svbcttd.com/Yoga%20vaasistam.html" target="_blank">View</a>
+                                                            <a id="cph_Home_grdLatestUpdate_hrpApplication_6" class="GridViewLink" target="_blank"></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl6$hdnLink" id="cph_Home_grdLatestUpdate_hdnLink_6" value="http://svbcttd.com/Yoga%20vaasistam.html" />
+                                                        </td>
+                                                    </tr>
+                                                
+                                                    <tr class="alternatingItem">
+                                                        <td class="gridbg2" align="center">
+                                                            8
+                                                        </td>
+                                                        <td class="gridbgleftalt">
+                                                            <span id="cph_Home_grdLatestUpdate_lblwork_7" class="WrapText" style="display:inline-block;width:98%;word-wrap: normal; word-break: initial;">Devotees / Organisers who intend to conduct Srinivasa Kalyanam can apply ::</span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl7$hdnTenderID" id="cph_Home_grdLatestUpdate_hdnTenderID_7" value="21548" />
+                                                        </td>
+                                                        <td class="gridbgleftalt" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDept_7" class="WrapText" style="display:inline-block;width:95%;">General</span>
+                                                        </td>
+                                                        <td class="gridbg2" style="display: none">
+                                                            <span id="cph_Home_grdLatestUpdate_lblDate_7" class="WrapText" style="display:inline-block;width:95%;">14-03-2018 16:48</span>
+                                                        </td>
+                                                        <td id="cph_Home_grdLatestUpdate_tdview_7" align="center" class="gridbg2">
+
+                                                            <a id="cph_Home_grdLatestUpdate_hrpTenderDocument_7" class="GridViewLink" target="_blank"></a>
+                                                            <a id="cph_Home_grdLatestUpdate_hrpApplication_7" class="GridViewLink" target="_blank"><a href='Documents/202001161647551969.pdf' target='_blank' Class='GridViewLink' style='align:left;'>Guidelines and Application form</a></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdLatestUpdate$ctrl7$hdnLink" id="cph_Home_grdLatestUpdate_hdnLink_7" />
+                                                        </td>
+
+
+                                                    </tr>
+                                                
+                                                    </table>
+                                                
+
+
+                                        </div>
+                                        
+                                    </div>
+
+                                </div>
+
+                                <div class="tab">
+                                    <input type="radio" id="tab-2" name="tab-group-1" />
+                                    <label for="tab-2">Notifications</label>
+
+                                    <div class="content">
+
+                                        
+                                        <div class="force-overflow">
+
+                                            
+                                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="gridtb" style="border-right: 1px #575757 solid; border-top: 1px #575757 solid;">
+                                                        <tr id="cph_Home_grdNotifications_Tr1">
+	<th id="cph_Home_grdNotifications_Th1" width="5%" class="gridhdbg" align="center">S.No</th>
+	<th width="13%" class="gridhdbg" align="center" valign="middle">Notification No</th>
+	<th width="50%" class="gridhdbg" align="center" valign="middle">Notification Name</th>
+	<th width="19%" class="gridhdbg" align="center" valign="middle">Last Date & Time</th>
+	<th width="16%" class="gridhdbg" align="center" valign="middle">Document</th>
+</tr>
+
+                                                        
+                                                    
+                                                    <tr class="item">
+                                                        <td class="gridbg1" align="center">
+                                                            1
+                                                        </td>
+                                                        <td class="gridbgleft">
+                                                            <span id="cph_Home_grdNotifications_Label1_0" class="WrapText" style="display:inline-block;width:95%;">TTD-80037(31)/7/2018-SVISTA-SEC-TTD</span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdNotifications$ctrl0$hdnTenderID" id="cph_Home_grdNotifications_hdnTenderID_0" value="37181" />
+                                                        </td>
+                                                        <td class="gridbgleft">
+                                                            <span id="cph_Home_grdNotifications_Label2_0" class="WrapText" style="display:inline-block;width:95%;">Admission Notifications for (4) four years Diploma Course and Two(2) years Certificate Course for the Academic Year 2021-22 at Sri Venkateswara Institute of Traditional Sculpture & Architecture, TTD, Tirupati</span><span id="cph_Home_grdNotifications_lbl_0"> - </span>
+                                                            
+                                                            <span id="cph_Home_grdNotifications_Label3_0" class="WrapText" style="display:inline-block;width:95%;"></span>
+                                                        </td>
+                                                        <td class="gridbg1">
+                                                            <span id="cph_Home_grdNotifications_Label4_0" class="WrapText" style="display:inline-block;width:95%;">15-09-2021 17:00</span>
+                                                        </td>
+                                                        <td class="gridbg1" align="center">
+                                                            <a id="cph_Home_grdNotifications_hrpTenderNotice_0" class="GridViewLink" href="Documents/202108041003027594.pdf" target="_blank">View/Download</a>
+                                                            
+                                                            <a id="cph_Home_grdNotifications_hrpTenderDocument_0" class="GridViewLink" target="_blank"></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdNotifications$ctrl0$hdnLink" id="cph_Home_grdNotifications_hdnLink_0" />
+                                                        </td>
+                                                    </tr>
+                                                
+                                                    
+                                                    <tr class="alternatingItem">
+                                                        <td class="gridbg2" align="center">
+                                                            2
+                                                        </td>
+                                                        <td class="gridbgleftalt">
+                                                            <span id="cph_Home_grdNotifications_Label1_1" class="WrapText" style="display:inline-block;width:95%;">TTD-80040(31)/15/2021/SVCMD-TTD</span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdNotifications$ctrl1$hdnTenderID" id="cph_Home_grdNotifications_hdnTenderID_1" value="37194" />
+                                                        </td>
+                                                        <td class="gridbgleftalt">
+                                                            <span id="cph_Home_grdNotifications_Label2_1" class="WrapText" style="display:inline-block;width:95%;">Admission for Part time Certificate Courses, Diploma Courses & 
+ Kalapravesika courses in SVCMD for the Academic Year – 2021-22</span><span id="cph_Home_grdNotifications_lbl_1"> - </span>
+
+                                                            
+                                                            <span id="cph_Home_grdNotifications_Label3_1" class="WrapText" style="display:inline-block;width:95%;"></span>
+
+                                                        </td>
+
+
+                                                        <td class="gridbg2">
+                                                            <span id="cph_Home_grdNotifications_Label4_1" class="WrapText" style="display:inline-block;width:95%;">31-08-2021 17:00</span>
+                                                        </td>
+
+
+                                                        <td class="gridbg2">
+                                                            <a id="cph_Home_grdNotifications_hrpTenderNotice_1" class="GridViewLink" href="Documents/202108071710274120.pdf" target="_blank">View/Download</a>
+
+                                                            
+                                                            <a id="cph_Home_grdNotifications_hrpTenderDocument_1" class="GridViewLink" target="_blank"></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdNotifications$ctrl1$hdnLink" id="cph_Home_grdNotifications_hdnLink_1" />
+                                                        </td>
+                                                    </tr>
+                                                
+                                                    
+                                                    <tr class="item">
+                                                        <td class="gridbg1" align="center">
+                                                            3
+                                                        </td>
+                                                        <td class="gridbgleft">
+                                                            <span id="cph_Home_grdNotifications_Label1_2" class="WrapText" style="display:inline-block;width:95%;">TTD-35021(88)/6/2019-SVIHVS SEC - TTD</span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdNotifications$ctrl2$hdnTenderID" id="cph_Home_grdNotifications_hdnTenderID_2" value="37192" />
+                                                        </td>
+                                                        <td class="gridbgleft">
+                                                            <span id="cph_Home_grdNotifications_Label2_2" class="WrapText" style="display:inline-block;width:95%;">Applications are invited for admissions into the  Veda Vijnana Peethams of TTD for the Academic Year 2021-22. Filled-in applications are to be submitted to the Principals of respective Vedhapathasalas</span><span id="cph_Home_grdNotifications_lbl_2"> - </span>
+                                                            
+                                                            <span id="cph_Home_grdNotifications_Label3_2" class="WrapText" style="display:inline-block;width:95%;"></span>
+                                                        </td>
+                                                        <td class="gridbg1">
+                                                            <span id="cph_Home_grdNotifications_Label4_2" class="WrapText" style="display:inline-block;width:95%;">31-08-2021 17:00</span>
+                                                        </td>
+                                                        <td class="gridbg1" align="center">
+                                                            <a id="cph_Home_grdNotifications_hrpTenderNotice_2" class="GridViewLink" href="Documents/202108071223271454.pdf" target="_blank">View/Download</a>
+                                                            
+                                                            <a id="cph_Home_grdNotifications_hrpTenderDocument_2" class="GridViewLink" target="_blank"><a href='Documents/202108071220219025.pdf' target='_blank' Class='GridViewLink'>Application Form</a></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdNotifications$ctrl2$hdnLink" id="cph_Home_grdNotifications_hdnLink_2" />
+                                                        </td>
+                                                    </tr>
+                                                
+                                                    
+                                                    <tr class="alternatingItem">
+                                                        <td class="gridbg2" align="center">
+                                                            4
+                                                        </td>
+                                                        <td class="gridbgleftalt">
+                                                            <span id="cph_Home_grdNotifications_Label1_3" class="WrapText" style="display:inline-block;width:95%;">TTD-80040(31)/16/2021/SVCMD-TTD</span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdNotifications$ctrl3$hdnTenderID" id="cph_Home_grdNotifications_hdnTenderID_3" value="37195" />
+                                                        </td>
+                                                        <td class="gridbgleftalt">
+                                                            <span id="cph_Home_grdNotifications_Label2_3" class="WrapText" style="display:inline-block;width:95%;">Admissions  for Full time Title Courses of Visarada(Diploma) & Praveena (Advanced Diploma) in SVCMD & in SV Nadaswaram and Dolu School,TTD,Tirupati for the Academic Year – 2021-22</span><span id="cph_Home_grdNotifications_lbl_3"> - </span>
+
+                                                            
+                                                            <span id="cph_Home_grdNotifications_Label3_3" class="WrapText" style="display:inline-block;width:95%;"></span>
+
+                                                        </td>
+
+
+                                                        <td class="gridbg2">
+                                                            <span id="cph_Home_grdNotifications_Label4_3" class="WrapText" style="display:inline-block;width:95%;">21-08-2021 17:00</span>
+                                                        </td>
+
+
+                                                        <td class="gridbg2">
+                                                            <a id="cph_Home_grdNotifications_hrpTenderNotice_3" class="GridViewLink" href="Documents/202108071713509393.pdf" target="_blank">View/Download</a>
+
+                                                            
+                                                            <a id="cph_Home_grdNotifications_hrpTenderDocument_3" class="GridViewLink" target="_blank"></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdNotifications$ctrl3$hdnLink" id="cph_Home_grdNotifications_hdnLink_3" />
+                                                        </td>
+                                                    </tr>
+                                                
+                                                    
+                                                    <tr class="item">
+                                                        <td class="gridbg1" align="center">
+                                                            5
+                                                        </td>
+                                                        <td class="gridbgleft">
+                                                            <span id="cph_Home_grdNotifications_Label1_4" class="WrapText" style="display:inline-block;width:95%;">TTD-104021(31)/106/2021-BIRRD - TTD</span>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdNotifications$ctrl4$hdnTenderID" id="cph_Home_grdNotifications_hdnTenderID_4" value="37128" />
+                                                        </td>
+                                                        <td class="gridbgleft">
+                                                            <span id="cph_Home_grdNotifications_Label2_4" class="WrapText" style="display:inline-block;width:95%;">Applications are invited from Post MS(Ortho) / DNB(Ortho) for Doctoral Fellowship Course in Arthroplasty under Dr. NTR University, Vijayawada at BIRRD(T) Hospital, TTD, Tirupati for period of one year, 2021. Filled in application to be submitted in the office of Director, BIRRD(T) Hospital, TTD, Tirupati </span><span id="cph_Home_grdNotifications_lbl_4"> - </span>
+                                                            
+                                                            <span id="cph_Home_grdNotifications_Label3_4" class="WrapText" style="display:inline-block;width:95%;"></span>
+                                                        </td>
+                                                        <td class="gridbg1">
+                                                            <span id="cph_Home_grdNotifications_Label4_4" class="WrapText" style="display:inline-block;width:95%;">15-08-2021 17:00</span>
+                                                        </td>
+                                                        <td class="gridbg1" align="center">
+                                                            <a id="cph_Home_grdNotifications_hrpTenderNotice_4" class="GridViewLink" href="Documents/202107311244453780.pdf" target="_blank">View/Download</a>
+                                                            
+                                                            <a id="cph_Home_grdNotifications_hrpTenderDocument_4" class="GridViewLink" target="_blank"><a href='Documents/202107311244454093.pdf' target='_blank' Class='GridViewLink'>Application Form</a></a>
+                                                            <input type="hidden" name="ctl00$cph_Home$grdNotifications$ctrl4$hdnLink" id="cph_Home_grdNotifications_hdnLink_4" />
+                                                        </td>
+                                                    </tr>
+                                                
+                                                    </table>
+                                                
+
+                                        </div>
+                                        
+
+                                        
+                                    </div>
+
+                                </div>
+
+                                <div class="tab">
+                                    <input type="radio" id="tab-3" name="tab-group-1" />
+                                    <label for="tab-3">Tenders</label>
+
+                                    <div class="content">
+
+                                        
+                                        <div class="force-overflow">
+                                            
+                                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="gridtb" style="border-right: 1px #575757 solid; border-top: 1px #575757 solid;">
+                                                        <tr id="cph_Home_grdTenderHead_Tr1">
+	<th id="cph_Home_grdTenderHead_Th1" width="4%" class="gridhdbg" align="center">S.No</th>
+	<th width="9%" class="gridhdbg" align="center" valign="middle">Tender No</th>
+	<th width="25%" class="gridhdbg" align="center" valign="middle">Work Name</th>
+	<th width="25%" class="gridhdbg" align="center" valign="middle" style="display:none;">Work Description</th>
+	<th width="13%" class="gridhdbg" align="center" valign="middle">Last Date & Time</th>
+	<th width="11%" class="gridhdbg" align="center" valign="middle">Tender Notice</th>
+	<th width="11%" class="gridhdbg" align="center" valign="middle" style="display:none;">Tender Document</th>
+</tr>
+
+                                                        
+                                                    <tr class="item">
+                                                        <td class="gridbgleftalt" colspan="7">
+                                                            <span id="cph_Home_grdTenderHead_lblHea_0" class="WrapText" style="font-weight: bold; color: #ED2907;">Advt No: </span><span id="cph_Home_grdTenderHead_lblAdvtno_0" class="WrapText">TTD-87021/4/2020 - Sales SEC - TTD</span>
+
+                                                        </td>
+                                                    </tr>
+                                                    
+                                                            <tr class="item">
+                                                                <td class="gridbg1" align="center">
+                                                                    1
+                                                                </td>
+                                                                <td class="gridbgleft">
+                                                                    
+                                                                    <span id="cph_Home_grdTenderHead_grdTenders_0_Label1_0" class="WrapText" style="display:inline-block;width:99%;">TTD-87021/4/2020 - Sales SEC - TTD</span>
+                                                                    
+                                                                    <input type="hidden" name="ctl00$cph_Home$grdTenderHead$ctrl0$grdTenders$ctrl0$hdnTenderID" id="cph_Home_grdTenderHead_grdTenders_0_hdnTenderID_0" value="37185" />
+                                                                </td>
+
+                                                                <td class="gridbgleft">
+                                                                    <span id="cph_Home_grdTenderHead_grdTenders_0_Label2_0" class="WrapText">Entrusting the work of Packing & Shipping of Calendars and Diaries -2022.</span>
+
+                                                                    </asp:Label>
+                                                                </td>
+                                                                <td class="gridbg1" style="display:none;">
+                                                                    <span id="cph_Home_grdTenderHead_grdTenders_0_Label3_0" class="WrapText"></span>
+                                                                </td>
+                                                                <td class="gridbg1">
+                                                                    <span id="cph_Home_grdTenderHead_grdTenders_0_Label4_0" class="WrapText" style="display:inline-block;width:99%;">20-08-2021 15:00</span>
+                                                                </td>
+                                                                <td class="gridbg1" align="center">
+                                                                    <a id="cph_Home_grdTenderHead_grdTenders_0_hrpTenderNotice_0" class="GridViewLink" href="Documents/202108061008590941.pdf" target="_blank">View/Download</a>
+                                                                </td>
+                                                                <td class="gridbg1" align="center" style="display:none;">
+                                                                    <a id="cph_Home_grdTenderHead_grdTenders_0_hrpTenderDocument_0" class="GridViewLink" target="_blank"></a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                
+                                                    <tr class="item">
+                                                        <td class="gridbgleftalt" colspan="7">
+                                                            <span id="cph_Home_grdTenderHead_lblHea_1" class="WrapText" style="font-weight: bold; color: #ED2907;">Advt No: </span><span id="cph_Home_grdTenderHead_lblAdvtno_1" class="WrapText">TTD-81021(31)/3/2021-REV TML-TTD</span>
+
+                                                        </td>
+                                                    </tr>
+                                                    
+                                                            <tr class="item">
+                                                                <td class="gridbg1" align="center">
+                                                                    1
+                                                                </td>
+                                                                <td class="gridbgleft">
+                                                                    
+                                                                    <span id="cph_Home_grdTenderHead_grdTenders_1_Label1_0" class="WrapText" style="display:inline-block;width:99%;">TTD-81021(31)/3/2021-REV TML-TTD</span>
+                                                                    
+                                                                    <input type="hidden" name="ctl00$cph_Home$grdTenderHead$ctrl1$grdTenders$ctrl0$hdnTenderID" id="cph_Home_grdTenderHead_grdTenders_1_hdnTenderID_0" value="37038" />
+                                                                </td>
+
+                                                                <td class="gridbgleft">
+                                                                    <span id="cph_Home_grdTenderHead_grdTenders_1_Label2_0" class="WrapText">e-tenders are invited to award license to run 3 Big Canteens at Tirumala (Srivatsa Big Canteen, Sapthagiri Big Canteen and Narayanagiri Restaurant) on "As it is Where it is Basis" for a period of 3 years</span>
+
+                                                                    </asp:Label>
+                                                                </td>
+                                                                <td class="gridbg1" style="display:none;">
+                                                                    <span id="cph_Home_grdTenderHead_grdTenders_1_Label3_0" class="WrapText"></span>
+                                                                </td>
+                                                                <td class="gridbg1">
+                                                                    <span id="cph_Home_grdTenderHead_grdTenders_1_Label4_0" class="WrapText" style="display:inline-block;width:99%;">22-08-2021 17:00</span>
+                                                                </td>
+                                                                <td class="gridbg1" align="center">
+                                                                    <a id="cph_Home_grdTenderHead_grdTenders_1_hrpTenderNotice_0" class="GridViewLink" href="Documents/202107261008482625.pdf" target="_blank">View/Download</a>
+                                                                </td>
+                                                                <td class="gridbg1" align="center" style="display:none;">
+                                                                    <a id="cph_Home_grdTenderHead_grdTenders_1_hrpTenderDocument_0" class="GridViewLink" target="_blank"></a>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                
+                                                    </table>
+                                                
+                                            <br />
+                                            <br />
+                                            <div style="width: 100%; text-align: right; font-size: large;" class="block-link">
+                                                <a href="TenderDepartmentDetails.aspx">More..</a>
+                                            </div>
+
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    
+    <style>
+        .MapStyle {
+            position: fixed;
+            z-index: 5000000;
+            width: 30px;
+            height: 9%;
+            overflow: hidden;
+            cursor: pointer;
+            right: 0px;
+            bottom: 3%;
+            background-color: #c74a02;
+            border-radius: 10px 0px 0px 10px;
+        }
+        .feedbackStyle {
+            position: fixed;
+            z-index: 5000000;
+            width: 30px;
+            height: 17%;
+            overflow: hidden;
+            cursor: pointer;
+            right: 0px;
+            bottom: 13%;
+            background-color: #c74a02;
+            border-radius: 10px 0px 0px 10px;
+        }
+        .SurveyStyle {
+            position: fixed;
+            z-index: 5000000;
+            width: 30px;
+            height: 13%;
+            overflow: hidden;
+            cursor: pointer;
+            right: 0px;
+            bottom: 31%;
+            background-color: #c74a02;
+            border-radius: 10px 0px 0px 10px;
+        }        
+    </style>
+    <div title="FEEDBACK" class="feedbackStyle">
+        
+        <a href="Contactus.aspx#Feedback" target="_blank" style="text-decoration: none;">
+            <span style="color: #FFFFFF; writing-mode: tb-rl; font-size: 20px; margin-top: 13px;">Feedback</span></a>
+    </div>
+    
+
+                                <!-- Content Template Ends -->
+
+
+                            </td>
+                        </tr>
+                    </table>
+                    <!-- Body Ends -->
+                </td>
+            </tr>
+            <tr>
+                <td align="center" valign="top" class="footer-bg">
+                    <table width="1002" border="0" cellspacing="0" cellpadding="0" align="center">
+                        <tr>
+                            <td style="padding-top: 5px;">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td width="74%" align="left">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td colspan="2">
+                                                        <div class="foot-link-hd" style="margin-top: 12px; width: 140px;">Other Links :</div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="left" valign="top">
+                                            <ul style="list-style-image: url(NewImages/white-dot.png);">
+                                                
+                                               
+                                                <li><a href="Festivals.aspx" class="foot-link">Festivals</a></li>
+                                                <li><a href="Advancebooking.aspx" class="foot-link">Advance Booking</a></li>
+                                                
+                                                
+                                                
+                                                <li><a href="RecordingProject.aspx" class="foot-link">SriVenkateshwara Recording Project</a></li>
+                                                <li><a href="AlwarPasurams.aspx" class="foot-link">Alwar Divya Prabhandams</a></li>
+                                                <li><a href="hdpp.aspx" class="foot-link">Hindu Dharma Parirakshana Samithi</a></li>
+						<li><a href="DasaSahithya.aspx" class="foot-link">Dasa Sahitya</a></li>
+                                                
+                                            </ul>
+                                        </td>
+                                                    <td align="left" valign="top">
+                                            <ul style="list-style-image: url(NewImages/white-dot.png);">
+                                                
+                                                <li><a href="MusicandBooks.aspx" class="foot-link">Music & Books</a></li>
+                                                <li><a href="SVETA.aspx" class="foot-link">SVETA</a></li>
+                                                <li><a href="voluntaryservices.aspx" class="foot-link">Voluntary Services</a></li>
+                                                
+                                                <li><a href="ttdklmps.aspx" class="foot-link">TTD Kalyana Mandapams</a></li>
+                                                
+                                                
+                                               
+                                                <li><a href="TenderDepartmentDetails.aspx" class="foot-link">Active Tenders</a></li>
+                                                <li><a href="PastTenders.aspx" class="foot-link">Archives</a></li>
+                                                
+                                                
+                                            </ul>
+                                        </td>
+                                                </tr>
+                                            </table>
+
+                                        </td>
+                                        <td width="26%" style="padding-left: 15px;" valign="top">
+                                            <div class="foot-link-hd" style="margin-top: 8px; padding-top: 14px">Information :</div>
+                                            <ul style="list-style-image: url(NewImages/white-dot.png);">
+                                                <li><a href="Home.aspx" class="foot-link">Home</a></li>
+                                                
+                                                <li><a href="Sitemap.aspx" class="foot-link">Sitemap</a></li>
+                                                <li><a href="FAQ.aspx" class="foot-link">FAQ's</a></li>
+                                                
+                                                <li><a href="somedharmicprograms.aspx" class="foot-link">Dharmic Programmes</a></li>
+                                                 <li><a href="Package_Tours.aspx" class="foot-link">Package Tours</a></li>
+                                                
+                                            </ul>
+                                        </td>
+                                        <td width="13%">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="foot-row2" style="text-align: right;">
+                                
+                                <div style="margin-top: 5px; float: left; font-family: 11px; color: #FFFFFF;">Copyright © 2015 Tirumala Tirupati Devasthanams(TTD), All Rights Reserved</div>
+                                <div style="float: right;">
+                                    <img src="NewImages/sitemap.gif">
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="foot-row2" style="text-align: center; vertical-align: middle">
+                                <table cellspacing="0" cellpadding="0" align="center" valign="center">
+                                    <tr>
+                                        <td style="font-family: Verdana; font-size: 11px; color: #000; line-height: 30px; vertical-align: middle;">
+                                             <b>Total Visitors :</b>
+                                        </td>
+                                        <td style="padding-left: 5px;">
+                                            <span class="hit-count-num">
+                                                <span id="lblSiteVisited">81839343</span></span>
+                                        </td>
+                                        <td style="font-family: Verdana; padding-left: 15px; font-size: 11px; color: #000; line-height: 18px; vertical-align: middle;">
+                                            <b>Today's Visitors :</b>
+                                        </td>
+                                        <td style="padding-left: 5px;">
+                                            <span class="hit-count-num">
+                                                <span id="lblCount">16172</span></span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td class="foot-row2">
+                                <audio preload="auto" id="id12" controls="controls" autoplay="true" style="background-color: transparent; opacity: 0.9; width: 47px; background-position: left;" loop="loop" src="music/slogan.mp3"></audio>
+                                
+                                <div style="float: right;">
+                                    &nbsp;
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <script src="Scrolltotop/jquery-scrollToTop.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function ($) {
+                $('body').scrollToTop({ skin: 'cycle' });
+            });
+        </script>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</body>
+</html>
