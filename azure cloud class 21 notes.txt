@@ -30,4 +30,5 @@ detaching the disk after completion
 run command : accessing into VM with a command with out login into VM
 **activity log
 ** load VM images into a gallery : process
+remote to local changes commit 
 
