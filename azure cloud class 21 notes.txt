@@ -1,0 +1,33 @@
+six resources of vms
+public and private ip
+who gives public ip
+search bar public ip adresses
+kind of ip adresses static and dynamic ip adresss
+convert dynamic to static ip adds
+basic and standard ip
+create public ip adrs 
+associate and diassociate
+load balancer and network interface card
+can we change private ip of a machine
+network security group
+***CAPTURE option converts vm into image
+{generalized and specialized}
+visual studio code
+shared image gallery in search bar
+horizontal vs vertical scaling in vm
+attach a new disk to the vm
+LUN:logical unit number
+IOPS:input output
+host catching
+remote desktop connection
+newly created disk is not appearing in vm 
+creating disk at vm and in other location
+**Disk manager:{diskmgmt.msc}
+**allocate a disk in VM which is unallocated
+>new volume , shrink volume
+detaching the disk after completion
+**resizing the disk
+run command : accessing into VM with a command with out login into VM
+**activity log
+** load VM images into a gallery : process
+
